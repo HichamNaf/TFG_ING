@@ -1,0 +1,4 @@
+dist=0.30  eps=0.001210  min_points=8
+dist=0.40  eps=0.001659  min_points=8
+dist=0.50  eps=0.002112  min_points=8
+dist=0.60  eps=0.002469  min_points=8

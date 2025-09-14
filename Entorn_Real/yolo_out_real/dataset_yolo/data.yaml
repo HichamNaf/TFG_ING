@@ -1,0 +1,9 @@
+{
+  "path": "C:\\Users\\drago\\Documents\\4rt\\tfg\\Robot\\yolo_out_real\\dataset_yolo",
+  "train": "images/train",
+  "val": "images/val",
+  "names": {
+    "0": "piece"
+  },
+  "task": "segment"
+}
