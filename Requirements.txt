@@ -1,0 +1,14 @@
+pip install numpy
+pip install scipy
+pip install scikit-learn
+pip install pandas
+pip install matplotlib
+pip install opencv-python
+pip install open3d==0.18.0
+pip install pyrealsense2
+pip install ur-rtde
+pip install ultralytics
+pip install joblib
+pip install tqdm
+pip install pyyaml
+pip install shapely
